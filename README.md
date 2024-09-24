@@ -7,6 +7,6 @@ The small training and testing data files are available in /data. The larger one
 ## How to use
 1. Install all the dependencies by running 
 ``` bash
-   pip install -r requiremnets.txt
+   pip install -r requirements.txt
 ```
 2. Run the notebooks cell by cell 
